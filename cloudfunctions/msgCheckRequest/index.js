@@ -39,5 +39,5 @@ exports.main = async(event, context) => {
   // }).catch(function(err) {
   //   console.log(err);
   // });
-  return checkResponse.body;
+  return checkResponse;
 }
