@@ -10,3 +10,9 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+
+## 内容校验问题
+
+> {"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [1UX0vA00778607!]"}
+
+目前没有解决
