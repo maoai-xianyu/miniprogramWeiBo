@@ -11,8 +11,9 @@
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
 
-## 内容校验问题
+## 内容校验问题 got 库
 
 > {"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [1UX0vA00778607!]"}
 
-目前没有解决
+**方案**
+目前感觉是got库有问题，用request库代替可以解决上面的问题。
