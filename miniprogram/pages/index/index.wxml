@@ -11,5 +11,50 @@
         </view>
       </view>
     </view>
+    <view class="weibo-content-group">
+      <view class="content">大家快来学习小程序开发~</view>
+      <view class="image-list-group">
+
+      <image src="cloud://weibo-dev-ugwot.7765-weibo-dev-ugwot/1.jpg" />
+      
+      </view>
+    </view>
+    <view class="weibo-handle">
+      <view class="comment-group">
+        <image src="../../images/comment.png" />
+        评论
+      </view>
+      <view class="praise-group">
+        <image src="../../images/praise.png" />
+        点赞
+      </view>
+    </view>
+  </view>
+
+  <view class="weibo-group">
+    <view class="info-group">
+      <image class="thumbnil" src="cloud://weibo-dev-ugwot.7765-weibo-dev-ugwot/maoai_xianyu.png" />
+      <view class="info-right">
+        <view class="info-username">boxfish</view>
+        <view class="info-detail">
+          <view class="time">2019/08/16</view>
+          <view class="from">来自华为手机</view>
+        </view>
+      </view>
+    </view>
+    <view class="weibo-content-group">
+      <view class="content">大家快来学习小程序开发~</view>
+      <view class="image-list-group"></view>
+    </view>
+    <view class="weibo-handle">
+      <view class="comment-group">
+        <image src="../../images/comment.png" />
+        评论
+      </view>
+      <view class="praise-group">
+        <image src="../../images/praise.png" />
+        点赞
+      </view>
+    </view>
   </view>
 </view>
